@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/nextrevision/kubernetes-doc-parser",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": [
+		{
+			"ImportPath": "github.com/andybalholm/cascadia",
+			"Rev": "1c31af6f6c1a7b101ed05aacc7d8a738b43ae86e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "04b9de9b512f58addf28c9853d50ebef61c3953e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "04b9de9b512f58addf28c9853d50ebef61c3953e"
+		}
+	]
+}
