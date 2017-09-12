@@ -1,3 +1,4 @@
 *.swp
-vendor
+vendor/*
+!vendor/vendor.json
 kubernetes-doc-parser_darwin_amd64

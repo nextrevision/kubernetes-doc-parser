@@ -11,8 +11,7 @@ go get -u github.com/nextrevision/kubernetes-doc-parser
 ## Building
 
 ```
-go get -u github.com/tools/godep
-go get -u github.com/mitchellh/gox
-godep get
-gox -osarch="darwin/amd64"
+go get -u github.com/kardianos/govendor
+govendor sync
+GOOS=darwin GOARCH=amd64 go build
 ```

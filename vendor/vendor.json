@@ -1,0 +1,22 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "oLYnEHr1dTmo+QYudDHJJWNZ0a4=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "1c31af6f6c1a7b101ed05aacc7d8a738b43ae86e"
+		},
+		{
+			"checksumSHA1": "vqc3a+oTUGX8PmD0TS+qQ7gmN8I=",
+			"path": "golang.org/x/net/html",
+			"revision": "04b9de9b512f58addf28c9853d50ebef61c3953e"
+		},
+		{
+			"checksumSHA1": "z79z5msRzgU48FCZxSuxfU8b4rs=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "04b9de9b512f58addf28c9853d50ebef61c3953e"
+		}
+	],
+	"rootPath": "github.com/nextrevision/kubernetes-doc-parser"
+}
